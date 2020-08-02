@@ -1,0 +1,17 @@
+#+TITLE: About
+#+DATE: 2020-07-31
+#+TYPE: about
+
+This is the "About" page.
+
+Here is the place to describe yourself.  Share projects and
+accomplishments.  Tell the world about your dreams. There's also a
+spot for a picture[fn:1]. Neat!
+
+* Footnotes
+
+[fn:1]
+
+The person in the picture [[http://thispersondoesnotexist.com][does not exist]].  If they're creepy, refresh
+the page.  You'll hopefully be greeted by someone (no one?) in a
+better mood.

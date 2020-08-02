@@ -1,0 +1,13 @@
+#+TITLE: Index
+#+DATE: 2020-07-31
+#+TYPE: index
+
+Welcome to the demo page for the [[http://githib.com/excalamus/peut-publier/][peut-publier]] project.
+
+
+/Peut publier/ is French for "can publish", as in /Tu peut publier/.
+The =peut-publier= project enables users to publish a website.  It's
+also a recursive acronym.  Fun!
+
+
+This is the default website style, a blog.

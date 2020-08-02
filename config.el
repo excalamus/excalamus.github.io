@@ -1,0 +1,5 @@
+(setq peut-publier-root-directory "~/projects/peut-publier-site/")
+(setq peut-publier-src-directory "~/projects/peut-publier-site/src/")
+(setq peut-publier-publish-directory "~/projects/peut-publier-site/publish/")
+(setq peut-publier-about-img "https://thispersondoesnotexist.com/image")
+(setq peut-publier-about-img-alt "Headshot of a person who does not exist.")
