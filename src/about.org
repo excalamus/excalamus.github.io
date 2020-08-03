@@ -4,9 +4,10 @@
 
 This is the "About" page.
 
+
 Here is the place to describe yourself.  Share projects and
 accomplishments.  Tell the world about your dreams. There's also a
-spot for a picture[fn:1]. Neat!
+spot for a picture[fn:1].  Neat!
 
 * Footnotes
 
