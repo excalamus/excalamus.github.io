@@ -2,7 +2,8 @@
 #+DATE: 2020-07-31
 #+TYPE: index
 
-Welcome to the demo page for the [[http://github.com/excalamus/peut-publier/][=peut-publier=]] project.
+Welcome to the demo page for the [[http://github.com/excalamus/peut-publier/][=peut-publier=]] project.  See the
+source code for this website [[https://github.com/excalamus/excalamus.github.io][here]].
 
 
 /Peut publier/ is French for "can publish", as in /Tu peut publier/.
